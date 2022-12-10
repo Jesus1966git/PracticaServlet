@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 4 dic 2022, 16:19:19
+    Author     : Usr
+*/
+body{
+    background: url(../imagenes/fondo.png);    
+}
+nueva{
+    color: white;
+}
+limitacion{
+    color: red;
+}
+
+/*img#imagen_de_fondo{
+    Rellenamos el fondo 
+        min-height: 100%;
+        min-width: 800px;
+ 
+         Escalamiento proporcional 
+        width: 100%;
+        height: auto;
+ 
+         Posicionamiento 
+        position: fixed;
+        top: 0;
+        left: 0;
+}
+
+@media screen and (max-width: 800px) {  Hacemos la búsqueda y si coincide modificamos las propiedades de la imagen 
+        img#imagen_de_fondo {
+                left: 50%;
+                margin-left: -400px;    Agregamos un margen negativo que represente el 50% 
+        }
+}
+
+html {
+        background: url(imagenes/fondo.png) no-repeat center center fixed;
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+}*/
